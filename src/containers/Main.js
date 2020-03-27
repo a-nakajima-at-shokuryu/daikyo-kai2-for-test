@@ -20,7 +20,7 @@ const Main = () => {
       name: 'github', 
       title: 'Gitリポジトリ', 
       icon: <GitHubIcon />, 
-      to: 'https://github.com', 
+      to: 'https://github.com/a-nakajima-at-shokuryu/daikyo-kai2', 
     }, 
     {
       name: 'home', 
